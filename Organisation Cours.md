@@ -11,9 +11,13 @@
     + Installer Python -> Attention à cocher pip
     + IDLE pas pratique -> Atom / Sublime
     + Installer Atom + Packages
-      * //packages
-    + Installer Kite
-      * Installer les plugins via Kite
+      * minimap
+      * atom-python-run
+      * highlight-selected
+      * minimap-pigments
+      * pigments
+      * python-snippets
+      * teletype
 
 ## Les Variables
     + Les types de variables
@@ -22,7 +26,11 @@
       * Str
       * List
       * Tuple
-      * Dicos
+
+## Les Entrées / Sorties
+    + Print
+    + Input
+      * Attention int(input()) si on rentre un textes
 
 ## Les Conditions
     + If
@@ -38,9 +46,10 @@
 
 
 ## Les bonnes pratiques
+    + Zen of python : import this
 
 ## Envoi exercices
-
+    + Voir PDF
 
 Cours 2:
 ## Correction des exercices
@@ -51,4 +60,8 @@ Cours 2:
 ## Intéragir avec des JSON
 ## Intéragir avec du SQL
 ## Présentation Git / Github (Clément)
+
+    + Installer Kite
+      * Installer les plugins via Kite
+      * Installer TurboTop pour Kite au premier plan
 ## Exercices plus complexes
