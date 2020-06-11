@@ -50,6 +50,8 @@
 Cours 2:
 ## Correction des exercices
 ## Bonnes pratiques / Conseils
+## Présentation Git / Github (Clément)
+
 ## Intéragir avec des fichiers
     + open / with ... open
     + modes d'ouverture : r / w / a
@@ -65,7 +67,9 @@ Cours 2:
 ## Intéragir avec des JSON
     + JSON = Dictionnaire
     + Lib json
-## Présentation Git / Github (Clément)
+    + dump(data, fichier)
+    + load(fichier)
+    + dumps(data, indent=4, ensure_ascii=False)
 
     + Installer Kite
       * Installer les plugins via Kite
