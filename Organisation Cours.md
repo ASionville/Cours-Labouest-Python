@@ -14,23 +14,19 @@
       * minimap
       * atom-python-run
       * highlight-selected
-      * minimap-pigments
-      * pigments
       * python-snippets
-      * teletype
+      * teletype -> Attention mangeur de RAM
 
 ## Les Variables
     + Les types de variables
       * Int
       * Float
       * Str
-      * List
-      * Tuple
 
 ## Les Entrées / Sorties
     + Print
     + Input
-      * Attention int(input()) si on rentre un textes
+      * Attention int(input()) si on rentre un texte
 
 ## Les Conditions
     + If
@@ -55,10 +51,20 @@ Cours 2:
 ## Correction des exercices
 ## Bonnes pratiques / Conseils
 ## Intéragir avec des fichiers
-## Débogage
+    + open / with ... open
+    + modes d'ouverture : r / w / a
+    + modes d'encodage : t / b
 ## Intéragir avec des CSV
+    + Lib csv
+    + Intro aux listes
+      * Listes par compréhension
+    + Intro aux Dicos
+    + Notion de header
+    + Titanic : titanic.csv
+      * Récupération données intéressantes
 ## Intéragir avec des JSON
-## Intéragir avec du SQL
+    + JSON = Dictionnaire
+    + Lib json
 ## Présentation Git / Github (Clément)
 
     + Installer Kite
